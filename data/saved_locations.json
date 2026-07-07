@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Home",
+        "location": "Stillwater, OK",
+        "relationship": "Personal location"
+    },
+    {
+        "name": "Mom",
+        "location": "Tulsa, OK",
+        "relationship": "Family"
+    },
+    {
+        "name": "School",
+        "location": "Oklahoma State University, Stillwater, OK",
+        "relationship": "Campus"
+    },
+    {
+        "name": "Friend",
+        "location": "Oklahoma City, OK",
+        "relationship": "Friend"
+    }
+]
